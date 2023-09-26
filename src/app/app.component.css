@@ -1,0 +1,47 @@
+h5{
+  color: white;
+  padding-left: 170px;
+  padding-top: 7px;
+}
+table, th, td {
+  border: 2px solid #004225;
+  border-collapse: collapse;
+}
+.inp{
+  text-align: right;
+  margin-top: 11px;
+  color: white;
+  font-size: 35px;
+}
+.centered-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background-color: #004225;
+  width: auto;
+  height: 100vh;
+  overflow: hidden;
+}
+.body{
+ width: 284px;
+ height: 420px;
+}
+.output{
+  background-color: #352F44;
+  height: 100px;
+  overflow: hidden;
+}
+.input{
+background-color:white;
+height: 300px;
+}
+.btn1{
+  width: 70px;
+  height: 60px;
+  background-color: #662549;
+}
+.eql{
+  width: 140px;
+  height: 60px;
+}
+
