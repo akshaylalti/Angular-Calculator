@@ -17,7 +17,7 @@ table, th, td {
   display: flex;
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
-  background-color: #004225;
+  background-color: rgb(154, 217, 217);
   width: auto;
   height: 100vh;
   overflow: hidden;
@@ -38,7 +38,7 @@ height: 300px;
 .btn1{
   width: 70px;
   height: 60px;
-  background-color: #662549;
+  background-color: burlywood;
 }
 .eql{
   width: 140px;
